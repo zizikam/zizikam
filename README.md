@@ -1,11 +1,13 @@
-## Hi there 👋
+## Hi, am Aziz Ahmed Kamara
+https://www.linkedin.com/in/aziz-kamara-a97248350?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhGxQTJ9RQKq8xLQSKX%2F0%2Fw%3D%3D
 
-<!--
-**zizikam/zizikam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Brief Introduction:
 
-Here are some ideas to get you started:
+I have a diploma in Accounting and Finance, an undergraduate degree in Computer Networking and Cybersecurity and working towards completing a masters degree in Cybersecurity with and interest in technology and defending networks and vital infrastructures and a dedication to solving complex problems.
 
-- 🔭 I’m currently working on ...
+## Objectives:
+
+My journey to cybersecurity is from an accounting and finance background then into the healthcare field and into cybersecurity. During the days being in the accounting and finance field thats when I developed and interest in the information technology field as this was the period when I had the opportunity to work at the information technology department as a support staff at the bank were I was employed. This interest has developed into the field of cybersecurity specifically aiming to focus on ethical hacking and penetration testing.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
