@@ -1,5 +1,5 @@
 ## Hi, am Aziz Ahmed Kamara
-https://www.linkedin.com/in/aziz-kamara-a97248350?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhGxQTJ9RQKq8xLQSKX%2F0%2Fw%3D%3D
+https://www.linkedin.com/in/aziz-kamara
 
 ## Brief Introduction:
 
